@@ -1,0 +1,6 @@
+framework module NRAutoIncreasingTextView {
+  umbrella header "NRAutoIncreasingTextView-umbrella.h"
+
+  export *
+  module * { export * }
+}

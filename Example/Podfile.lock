@@ -1,0 +1,16 @@
+PODS:
+  - NRAutoIncreasingTextView (0.1.0)
+
+DEPENDENCIES:
+  - NRAutoIncreasingTextView (from `../`)
+
+EXTERNAL SOURCES:
+  NRAutoIncreasingTextView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NRAutoIncreasingTextView: de9f7f07fcd67630e8c25ab10d6672a882729442
+
+PODFILE CHECKSUM: f10a8381c4793926c32a05b252a79eec7db5bf6b
+
+COCOAPODS: 1.11.2
